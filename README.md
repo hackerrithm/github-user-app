@@ -1,3 +1,5 @@
+<h2>Realtime React Chat App with Firebase</h2>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 After creation, your project should look like this:
