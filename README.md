@@ -1,4 +1,4 @@
-<h2>Realtime React Chat App with Firebase</h2>
+<h2>React App which uses Github API to get GitHub user information</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
